@@ -20,6 +20,8 @@ const Sidebar = () => (
         <li><Link to="/ClassComponentDemo">Class Component</Link></li>
         <li><Link to="/propsdemo">Props Demo</Link></li>
         <li><Link to="/lifecyclecodepen">Life Cycle Codepen</Link></li>
+        <li><Link to="/Timer">Timer</Link></li>
+        <li><Link to="/movie">Movie Search App</Link></li>
       </ul>
     </div>
     <div className="sidebar-route">
